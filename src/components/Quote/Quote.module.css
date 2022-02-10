@@ -1,0 +1,15 @@
+.quote {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: fit-content;
+    min-height: 200px;
+    text-align: center;
+    padding: 20px;
+  }
+  .quote__author {
+    font-size: 19px;
+  }
+  .quote__text {
+    font-size: 16px;
+  }
